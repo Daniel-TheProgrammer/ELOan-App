@@ -146,8 +146,6 @@ class _WorkScreenState extends State<WorkScreen> {
                   ],
                 ),
 
-              
-
 
                 Column(
                   children: [
